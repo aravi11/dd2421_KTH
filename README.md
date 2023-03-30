@@ -10,5 +10,5 @@ __Laboratories__
 - [x] LAB2 - **Support Vector Machines**
 - [x] LAB3 - **Bayesian Learning and Boosting**
 
-__Laboratories__
+__Programming Challenge__
 - [x] XGBoost Classifier - **Classification Problem (3 classes)**
